@@ -1,13 +1,18 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import HeroSection from "@/components/HeroSection";
+import ServicesOverview from "@/components/ServicesOverview";
+import WhyMedicus from "@/components/WhyMedicus";
+import Testimonials from "@/components/Testimonials";
+import CTABanner from "@/components/CTABanner";
 
 const Index = () => {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="mb-4 text-4xl font-bold">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
-    </div>
+    <main>
+      <HeroSection />
+      <ServicesOverview />
+      <WhyMedicus />
+      <Testimonials />
+      <CTABanner />
+    </main>
   );
 };
 
