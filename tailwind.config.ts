@@ -61,8 +61,8 @@ export default {
         },
       },
       fontFamily: {
-        sans: ["'Source Sans 3'", "sans-serif"],
-        serif: ["'Merriweather'", "serif"],
+        sans: ["'Inter'", "sans-serif"],
+        serif: ["'Playfair Display'", "serif"],
       },
       fontSize: {
         "senior": ["1.125rem", { lineHeight: "1.75" }],

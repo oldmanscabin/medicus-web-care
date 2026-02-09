@@ -1,4 +1,6 @@
-import { Link } from "react-router-dom";
+"use client";
+
+import Link from "next/link";
 import { motion } from "framer-motion";
 import { Phone, CalendarCheck } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -25,7 +27,7 @@ const CTABanner = () => {
               size="lg"
               className="text-lg px-8 py-6 bg-primary-foreground text-primary-dark hover:bg-primary-foreground/90 font-semibold"
             >
-              <Link to="/kontakt">
+              <Link href="/kontakt">
                 <CalendarCheck className="mr-2 h-5 w-5" />
                 Fahrt buchen
               </Link>
@@ -36,9 +38,9 @@ const CTABanner = () => {
               variant="outline"
               className="text-lg px-8 py-6 border-primary-foreground text-primary-foreground hover:bg-primary-foreground/10 font-semibold"
             >
-              <a href="tel:+4912345678">
+              <a href="tel:+492289473203">
                 <Phone className="mr-2 h-5 w-5" />
-                0123 456 78
+                0228 94732030
               </a>
             </Button>
           </div>
