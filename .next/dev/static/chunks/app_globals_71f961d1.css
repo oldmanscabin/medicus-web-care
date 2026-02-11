@@ -901,6 +901,10 @@ h1, h2, h3, h4, h5, h6 {
   height: 100svh;
 }
 
+.h-40 {
+  height: 10rem;
+}
+
 .max-h-96 {
   max-height: 24rem;
 }

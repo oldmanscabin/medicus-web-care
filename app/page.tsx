@@ -31,6 +31,8 @@ import {
   Send,
   CalendarCheck,
   ArrowRight,
+  Baby,
+  School,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -92,6 +94,8 @@ export default function Home() {
       services: [
         { icon: MapPin, titleKey: "services.doctor.title", descKey: "services.doctor.desc" },
         { icon: CalendarDays, titleKey: "services.daily.title", descKey: "services.daily.desc" },
+        { icon: Baby, titleKey: "services.kita.title", descKey: "services.kita.desc" },
+        { icon: School, titleKey: "services.school.title", descKey: "services.school.desc" },
       ],
     },
   ];

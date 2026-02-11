@@ -62,6 +62,10 @@ export const translations: Record<Language, Record<string, string>> = {
     "services.doctor.desc": "Fahrten zu niedergelassenen Ärzten und Fachärzten.",
     "services.daily.title": "Alltägliche Fahrten",
     "services.daily.desc": "Unterstützung im Alltag durch bequemen Transport.",
+    "services.kita.title": "Kitafahrten",
+    "services.kita.desc": "Sicherer Transport für Kinder zu Kindertagesstätten.",
+    "services.school.title": "Schulfahrten",
+    "services.school.desc": "Zuverlässiger Transport für Schüler zur Schule.",
 
     // Why Medicus
     "why.title": "Warum",
@@ -255,6 +259,10 @@ export const translations: Record<Language, Record<string, string>> = {
     "services.doctor.desc": "Rides to doctors and specialists.",
     "services.daily.title": "Daily Rides",
     "services.daily.desc": "Support in daily life with comfortable transport.",
+    "services.kita.title": "Kindergarten Transport",
+    "services.kita.desc": "Safe transport for children to kindergartens.",
+    "services.school.title": "School Transport",
+    "services.school.desc": "Reliable transport for students to school.",
 
     // Why Medicus
     "why.title": "Why",
@@ -448,6 +456,10 @@ export const translations: Record<Language, Record<string, string>> = {
     "services.doctor.desc": "رحلات إلى الأطباء والمتخصصين.",
     "services.daily.title": "رحلات يومية",
     "services.daily.desc": "دعم في الحياة اليومية بنقل مريح.",
+    "services.kita.title": "نقل روضة الأطفال",
+    "services.kita.desc": "نقل آمن للأطفال إلى رياض الأطفال.",
+    "services.school.title": "نقل المدرسة",
+    "services.school.desc": "نقل موثوق للطلاب إلى المدرسة.",
 
     // Why Medicus
     "why.title": "لماذا",
@@ -641,6 +653,10 @@ export const translations: Record<Language, Record<string, string>> = {
     "services.doctor.desc": "Trajets chez les médecins et spécialistes.",
     "services.daily.title": "Trajets Quotidiens",
     "services.daily.desc": "Aide au quotidien avec un transport confortable.",
+    "services.kita.title": "Transport Maternelle",
+    "services.kita.desc": "Transport sûr pour les enfants vers les jardins d'enfants.",
+    "services.school.title": "Transport Scolaire",
+    "services.school.desc": "Transport fiable pour les élèves vers l'école.",
 
     // Why Medicus
     "why.title": "Pourquoi",
@@ -834,6 +850,10 @@ export const translations: Record<Language, Record<string, string>> = {
     "services.doctor.desc": "Поездки к врачам и специалистам.",
     "services.daily.title": "Ежедневные поездки",
     "services.daily.desc": "Поддержка в повседневной жизни с комфортным транспортом.",
+    "services.kita.title": "Транспорт в детский сад",
+    "services.kita.desc": "Безопасная перевозка детей в детские сады.",
+    "services.school.title": "Школьный транспорт",
+    "services.school.desc": "Надежная перевозка учеников в школу.",
 
     // Why Medicus
     "why.title": "Почему",
@@ -1027,6 +1047,10 @@ export const translations: Record<Language, Record<string, string>> = {
     "services.doctor.desc": "Поїздки до лікарів та спеціалістів.",
     "services.daily.title": "Щоденні поїздки",
     "services.daily.desc": "Підтримка у повсякденному житті з комфортним транспортом.",
+    "services.kita.title": "Транспорт до дитячого садка",
+    "services.kita.desc": "Безпечне перевезення дітей до дитячих садків.",
+    "services.school.title": "Шкільний транспорт",
+    "services.school.desc": "Надійне перевезення учнів до школи.",
 
     // Why Medicus
     "why.title": "Чому",

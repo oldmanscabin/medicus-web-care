@@ -477,6 +477,10 @@ const translations = {
         "services.doctor.desc": "Fahrten zu niedergelassenen Ärzten und Fachärzten.",
         "services.daily.title": "Alltägliche Fahrten",
         "services.daily.desc": "Unterstützung im Alltag durch bequemen Transport.",
+        "services.kita.title": "Kitafahrten",
+        "services.kita.desc": "Sicherer Transport für Kinder zu Kindertagesstätten.",
+        "services.school.title": "Schulfahrten",
+        "services.school.desc": "Zuverlässiger Transport für Schüler zur Schule.",
         // Why Medicus
         "why.title": "Warum",
         "why.titleHighlight": "Medicus",
@@ -657,6 +661,10 @@ const translations = {
         "services.doctor.desc": "Rides to doctors and specialists.",
         "services.daily.title": "Daily Rides",
         "services.daily.desc": "Support in daily life with comfortable transport.",
+        "services.kita.title": "Kindergarten Transport",
+        "services.kita.desc": "Safe transport for children to kindergartens.",
+        "services.school.title": "School Transport",
+        "services.school.desc": "Reliable transport for students to school.",
         // Why Medicus
         "why.title": "Why",
         "why.titleHighlight": "Medicus",
@@ -837,6 +845,10 @@ const translations = {
         "services.doctor.desc": "رحلات إلى الأطباء والمتخصصين.",
         "services.daily.title": "رحلات يومية",
         "services.daily.desc": "دعم في الحياة اليومية بنقل مريح.",
+        "services.kita.title": "نقل روضة الأطفال",
+        "services.kita.desc": "نقل آمن للأطفال إلى رياض الأطفال.",
+        "services.school.title": "نقل المدرسة",
+        "services.school.desc": "نقل موثوق للطلاب إلى المدرسة.",
         // Why Medicus
         "why.title": "لماذا",
         "why.titleHighlight": "ميديكوس",
@@ -1017,6 +1029,10 @@ const translations = {
         "services.doctor.desc": "Trajets chez les médecins et spécialistes.",
         "services.daily.title": "Trajets Quotidiens",
         "services.daily.desc": "Aide au quotidien avec un transport confortable.",
+        "services.kita.title": "Transport Maternelle",
+        "services.kita.desc": "Transport sûr pour les enfants vers les jardins d'enfants.",
+        "services.school.title": "Transport Scolaire",
+        "services.school.desc": "Transport fiable pour les élèves vers l'école.",
         // Why Medicus
         "why.title": "Pourquoi",
         "why.titleHighlight": "Medicus",
@@ -1197,6 +1213,10 @@ const translations = {
         "services.doctor.desc": "Поездки к врачам и специалистам.",
         "services.daily.title": "Ежедневные поездки",
         "services.daily.desc": "Поддержка в повседневной жизни с комфортным транспортом.",
+        "services.kita.title": "Транспорт в детский сад",
+        "services.kita.desc": "Безопасная перевозка детей в детские сады.",
+        "services.school.title": "Школьный транспорт",
+        "services.school.desc": "Надежная перевозка учеников в школу.",
         // Why Medicus
         "why.title": "Почему",
         "why.titleHighlight": "Medicus",
@@ -1377,6 +1397,10 @@ const translations = {
         "services.doctor.desc": "Поїздки до лікарів та спеціалістів.",
         "services.daily.title": "Щоденні поїздки",
         "services.daily.desc": "Підтримка у повсякденному житті з комфортним транспортом.",
+        "services.kita.title": "Транспорт до дитячого садка",
+        "services.kita.desc": "Безпечне перевезення дітей до дитячих садків.",
+        "services.school.title": "Шкільний транспорт",
+        "services.school.desc": "Надійне перевезення учнів до школи.",
         // Why Medicus
         "why.title": "Чому",
         "why.titleHighlight": "Medicus",
@@ -1647,7 +1671,7 @@ Button.displayName = "Button";
 }),
 "[project]/src/assets/logo.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
 
-__turbopack_context__.v("/_next/static/media/logo.7cd53d4c.png");}),
+__turbopack_context__.v("/_next/static/media/logo.3031c4fb.png");}),
 "[project]/src/assets/logo.png.mjs { IMAGE => \"[project]/src/assets/logo.png (static in ecmascript, tag client)\" } [app-ssr] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -1663,7 +1687,7 @@ const __TURBOPACK__default__export__ = {
     height: 1024,
     blurWidth: 8,
     blurHeight: 5,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAAW0lEQVR42m2JwQpAQBRF/f8n2bCxJkxkgyYL3sigzIx5T4YkC6dz69bxjg9E9H7PTevdqZThHShtEOkJSV77QRxGGSvbouIpa6zFKyzrNoB0gpA9TGKcEe/wywnyiXI8D9pZ5AAAAABJRU5ErkJggg=="
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAAlElEQVR42i2OsQrCQAyGM6g4SHV0cxB8F4toHZwq2F7vcslZB0GlOKmr+AZ1dXD3/cz1OvwkJPB9PyAiGGNA6xCkPSAfwLR3sJZAm2M/U9UoK67R7vSe6PtnjO7cQfkBuxK2+XM6T+pNvK6XcfpNVu63SPPXjLgUArEgL93C3gYKmwwVPSLkqufp4gmuMNvd+yW+3x/adzPum1pvmgAAAABJRU5ErkJggg=="
 };
 }),
 "[project]/src/components/Navbar.tsx [app-ssr] (ecmascript)", ((__turbopack_context__) => {
@@ -1757,7 +1781,7 @@ const Navbar = ()=>{
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                 src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$logo$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$logo$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"].src,
                                 alt: "Medicus",
-                                className: "h-20 w-auto transition-transform group-hover:scale-105"
+                                className: "h-40 w-auto transition-transform group-hover:scale-105"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Navbar.tsx",
                                 lineNumber: 55,
