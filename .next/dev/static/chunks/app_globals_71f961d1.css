@@ -809,16 +809,16 @@ h1, h2, h3, h4, h5, h6 {
   height: 3.5rem;
 }
 
-.h-16 {
-  height: 4rem;
-}
-
 .h-2 {
   height: .5rem;
 }
 
 .h-2\.5 {
   height: .625rem;
+}
+
+.h-20 {
+  height: 5rem;
 }
 
 .h-24 {

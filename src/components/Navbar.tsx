@@ -52,7 +52,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-24">
           {/* Logo */}
           <a href="#" onClick={(e) => handleScroll(e, "#")} className="flex items-center gap-3 group">
-            <img src={logo.src} alt="Medicus" className="h-16 w-auto transition-transform group-hover:scale-105" />
+            <img src={logo.src} alt="Medicus" className="h-20 w-auto transition-transform group-hover:scale-105" />
           </a>
 
           {/* Desktop Nav */}

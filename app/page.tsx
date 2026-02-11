@@ -67,6 +67,9 @@ export default function Home() {
         { icon: Dumbbell, titleKey: "services.reha.title", descKey: "services.reha.desc" },
         { icon: Activity, titleKey: "services.physio.title", descKey: "services.physio.desc" },
         { icon: Activity, titleKey: "services.ergo.title", descKey: "services.ergo.desc" },
+        { icon: Stethoscope, titleKey: "services.logo.title", descKey: "services.logo.desc" },
+        { icon: Accessibility, titleKey: "services.ambulatory.title", descKey: "services.ambulatory.desc" },
+        { icon: Heart, titleKey: "services.seniorCare.title", descKey: "services.seniorCare.desc" },
       ],
     },
     {

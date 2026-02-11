@@ -512,6 +512,12 @@ const translations = {
         "services.physio.desc": "Fahrten zu Physiotherapie-Praxen.",
         "services.ergo.title": "Ergotherapie",
         "services.ergo.desc": "Transport zu ergotherapeutischen Behandlungen.",
+        "services.logo.title": "Logotherapie",
+        "services.logo.desc": "Fahrten zu Logopädie-Praxen.",
+        "services.ambulatory.title": "Gehfähige Betreuung",
+        "services.ambulatory.desc": "Betreuung bis zur Anmeldung in der Praxis.",
+        "services.seniorCare.title": "Seniorenfahrten-Betreuung",
+        "services.seniorCare.desc": "Betreuung für Fahrten zu Seniorenheimen.",
         "services.hospitalAdmission.title": "Krankenhauseinweisungen",
         "services.hospitalAdmission.desc": "Wir bringen Sie sicher ins Krankenhaus.",
         "services.hospitalDischarge.title": "Krankenhausentlassungen",
@@ -539,7 +545,7 @@ const translations = {
         "why.safety.stat": "100%",
         "why.safety.title": "Sicherheit zuerst",
         "why.safety.desc": "Zertifizierte medizinische Transportstandards",
-        "why.experience.stat": "15+",
+        "why.experience.stat": "5+",
         "why.experience.title": "Jahre Erfahrung",
         "why.experience.desc": "Führender Anbieter für medizinischen Transport",
         // Testimonials
@@ -686,6 +692,12 @@ const translations = {
         "services.physio.desc": "Rides to physiotherapy clinics.",
         "services.ergo.title": "Occupational Therapy",
         "services.ergo.desc": "Transport to occupational therapy treatments.",
+        "services.logo.title": "Speech Therapy",
+        "services.logo.desc": "Rides to speech therapy clinics.",
+        "services.ambulatory.title": "Ambulatory Care",
+        "services.ambulatory.desc": "Support up to registration at the clinic.",
+        "services.seniorCare.title": "Senior Care Rides",
+        "services.seniorCare.desc": "Care for rides to nursing homes.",
         "services.hospitalAdmission.title": "Hospital Admissions",
         "services.hospitalAdmission.desc": "We take you safely to the hospital.",
         "services.hospitalDischarge.title": "Hospital Discharges",
@@ -713,7 +725,7 @@ const translations = {
         "why.safety.stat": "100%",
         "why.safety.title": "Safety First",
         "why.safety.desc": "Certified medical transport standards",
-        "why.experience.stat": "15+",
+        "why.experience.stat": "5+",
         "why.experience.title": "Years Experience",
         "why.experience.desc": "Leading provider of medical transport",
         // Testimonials
@@ -860,6 +872,12 @@ const translations = {
         "services.physio.desc": "رحلات إلى عيادات العلاج الطبيعي.",
         "services.ergo.title": "العلاج الوظيفي",
         "services.ergo.desc": "النقل إلى جلسات العلاج الوظيفي.",
+        "services.logo.title": "علاج النطق",
+        "services.logo.desc": "رحلات إلى عيادات علاج النطق.",
+        "services.ambulatory.title": "الرعاية المتنقلة",
+        "services.ambulatory.desc": "الدعم حتى التسجيل في العيادة.",
+        "services.seniorCare.title": "رحلات رعاية المسنين",
+        "services.seniorCare.desc": "رعاية للرحلات إلى دور المسنين.",
         "services.hospitalAdmission.title": "دخول المستشفى",
         "services.hospitalAdmission.desc": "ننقلك بأمان إلى المستشفى.",
         "services.hospitalDischarge.title": "خروج من المستشفى",
@@ -887,7 +905,7 @@ const translations = {
         "why.safety.stat": "100%",
         "why.safety.title": "السلامة أولاً",
         "why.safety.desc": "معايير نقل طبي معتمدة",
-        "why.experience.stat": "+15",
+        "why.experience.stat": "+5",
         "why.experience.title": "سنوات خبرة",
         "why.experience.desc": "مزود رائد في النقل الطبي",
         // Testimonials
@@ -1034,6 +1052,12 @@ const translations = {
         "services.physio.desc": "Trajets vers les cabinets de kinésithérapie.",
         "services.ergo.title": "Ergothérapie",
         "services.ergo.desc": "Transport pour les séances d'ergothérapie.",
+        "services.logo.title": "Orthophonie",
+        "services.logo.desc": "Trajets vers les cabinets d'orthophonie.",
+        "services.ambulatory.title": "Soins Ambulatoires",
+        "services.ambulatory.desc": "Accompagnement jusqu'à l'enregistrement au cabinet.",
+        "services.seniorCare.title": "Transport Seniors",
+        "services.seniorCare.desc": "Accompagnement pour les trajets vers les maisons de retraite.",
         "services.hospitalAdmission.title": "Admissions Hospitalières",
         "services.hospitalAdmission.desc": "Nous vous emmenons en toute sécurité à l'hôpital.",
         "services.hospitalDischarge.title": "Sorties d'Hôpital",
@@ -1061,7 +1085,7 @@ const translations = {
         "why.safety.stat": "100%",
         "why.safety.title": "Sécurité d'Abord",
         "why.safety.desc": "Normes certifiées de transport médical",
-        "why.experience.stat": "15+",
+        "why.experience.stat": "5+",
         "why.experience.title": "Années d'Expérience",
         "why.experience.desc": "Leader du transport médical",
         // Testimonials
@@ -1208,6 +1232,12 @@ const translations = {
         "services.physio.desc": "Поездки в кабинеты физиотерапии.",
         "services.ergo.title": "Эрготерапия",
         "services.ergo.desc": "Транспорт на сеансы эрготерапии.",
+        "services.logo.title": "Логопедия",
+        "services.logo.desc": "Поездки в кабинеты логопедии.",
+        "services.ambulatory.title": "Амбулаторное сопровождение",
+        "services.ambulatory.desc": "Поддержка до регистрации в клинике.",
+        "services.seniorCare.title": "Перевозка пожилых людей",
+        "services.seniorCare.desc": "Уход при поездках в дома престарелых.",
         "services.hospitalAdmission.title": "Госпитализация",
         "services.hospitalAdmission.desc": "Мы безопасно доставим вас в больницу.",
         "services.hospitalDischarge.title": "Выписка из больницы",
@@ -1235,7 +1265,7 @@ const translations = {
         "why.safety.stat": "100%",
         "why.safety.title": "Безопасность прежде всего",
         "why.safety.desc": "Сертифицированные стандарты медицинского транспорта",
-        "why.experience.stat": "15+",
+        "why.experience.stat": "5+",
         "why.experience.title": "Лет опыта",
         "why.experience.desc": "Ведущий поставщик медицинского транспорта",
         // Testimonials
@@ -1382,6 +1412,12 @@ const translations = {
         "services.physio.desc": "Поїздки до кабінетів фізіотерапії.",
         "services.ergo.title": "Ерготерапія",
         "services.ergo.desc": "Транспорт на сеанси ерготерапії.",
+        "services.logo.title": "Логопедія",
+        "services.logo.desc": "Поїздки до кабінетів логопедії.",
+        "services.ambulatory.title": "Амбулаторний супровід",
+        "services.ambulatory.desc": "Підтримка до реєстрації в клініці.",
+        "services.seniorCare.title": "Перевезення літніх людей",
+        "services.seniorCare.desc": "Догляд при поїздках до будинків для літніх.",
         "services.hospitalAdmission.title": "Госпіталізація",
         "services.hospitalAdmission.desc": "Ми безпечно доставимо вас до лікарні.",
         "services.hospitalDischarge.title": "Виписка з лікарні",
@@ -1409,7 +1445,7 @@ const translations = {
         "why.safety.stat": "100%",
         "why.safety.title": "Безпека перш за все",
         "why.safety.desc": "Сертифіковані стандарти медичного транспорту",
-        "why.experience.stat": "15+",
+        "why.experience.stat": "5+",
         "why.experience.title": "Років досвіду",
         "why.experience.desc": "Провідний постачальник медичного транспорту",
         // Testimonials
@@ -1677,7 +1713,7 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
 }),
 "[project]/src/assets/logo.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
 
-__turbopack_context__.v("/_next/static/media/logo.b40f078f.png");}),
+__turbopack_context__.v("/_next/static/media/logo.7cd53d4c.png");}),
 "[project]/src/assets/logo.png.mjs { IMAGE => \"[project]/src/assets/logo.png (static in ecmascript, tag client)\" } [app-client] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -1689,11 +1725,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$logo$2e$png
 ;
 const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$logo$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
-    width: 1042,
-    height: 417,
+    width: 1536,
+    height: 1024,
     blurWidth: 8,
-    blurHeight: 3,
-    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAYAAACuyE5IAAAAWUlEQVR42kXI0QpAMBiG4d3/VYlSYoukjOUnzIpWOHHAPlJy8B68D3PO4UtvBwKyOK/fWEUGSU7gRYe0txDjCpp3hEJBPMbaYYEfS3hRCVFrcGWQKf2+bCbcYHtX428f1XkAAAAASUVORK5CYII="
+    blurHeight: 5,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAIAAAD38zoCAAAAW0lEQVR42m2JwQpAQBRF/f8n2bCxJkxkgyYL3sigzIx5T4YkC6dz69bxjg9E9H7PTevdqZThHShtEOkJSV77QRxGGSvbouIpa6zFKyzrNoB0gpA9TGKcEe/wywnyiXI8D9pZ5AAAAABJRU5ErkJggg=="
 };
 if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
     __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
@@ -1792,7 +1828,7 @@ const Navbar = ()=>{
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                 src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$logo$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$logo$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"].src,
                                 alt: "Medicus",
-                                className: "h-16 w-auto transition-transform group-hover:scale-105"
+                                className: "h-20 w-auto transition-transform group-hover:scale-105"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Navbar.tsx",
                                 lineNumber: 55,
